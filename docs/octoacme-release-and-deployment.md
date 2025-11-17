@@ -3,6 +3,13 @@
 ## Purpose
 Standardize how OctoAcme releases features to production to reduce risk and improve observability.
 
+## Role Ownership in Releases
+- **Release Manager**: Coordinates overall release process, schedules go/no-go meetings, and tracks release metrics
+- **DevOps Engineer**: Executes deployments, manages CI/CD pipelines, and handles infrastructure issues
+- **QA Lead**: Validates quality gates are met and signs off on test results
+- **Product Manager**: Approves release scope and prioritizes bug fixes
+- **Support/Customer Advocate**: Reviews customer impact and prepares support team for changes
+
 ## Release Types
 - Patch: hotfixes addressing critical production issues
 - Minor: incremental features and improvements

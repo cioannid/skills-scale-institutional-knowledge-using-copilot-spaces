@@ -24,6 +24,12 @@ Maintain a simple table with:
 - Provide regular updates (weekly or milestone-based)
 - Use a single source of truth (project README or release doc) for status
 
+**Support/Customer Advocate Role:**
+- Shares customer feedback and pain points with the team
+- Provides customer impact assessments for release planning
+- Coordinates with support channels on upcoming changes
+- Reports support trends and field issues in retrospectives
+
 ## Communication Templates
 Weekly Status Template:
 - Progress this week:
