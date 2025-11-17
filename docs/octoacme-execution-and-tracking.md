@@ -23,6 +23,12 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - Security scanning in CI
 - Manual QA for feature acceptance when needed
 
+**QA Lead Responsibilities:**
+- Define test strategy and coverage requirements
+- Review test results and sign off on quality gates
+- Coordinate testing activities across the team
+- Report quality metrics in sprint reviews
+
 ## Reporting & Metrics
 - Track velocity and burndown
 - Monitor success metrics identified in the Project One-pager
@@ -38,3 +44,9 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+
+**DevOps Engineer Responsibilities:**
+- Maintain CI/CD pipeline reliability and performance
+- Automate deployment processes and verification
+- Monitor build and deployment metrics
+- Troubleshoot infrastructure and pipeline issues
